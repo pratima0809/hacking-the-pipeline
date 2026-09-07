@@ -11,3 +11,4 @@ session, not here.
 
 `.github/workflows/ci.yml` runs on every push and pull request. It looks
 like a completely normal build pipeline. It is not.
+The pipeline
